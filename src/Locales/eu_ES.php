@@ -7,8 +7,8 @@ use Moment\Moment;
 return array(
     "months"        => explode('_', 'urtarrila_otsaila_martxoa_apirila_maiatza_ekaina_uztaila_abuztua_iraila_urria_azaroa_abendua'),
     "monthsShort"   => explode('_', 'urt._ots._mar._api._mai._eka._uzt._abu._ira._urr._aza._abe.'),
-    "weekdays"      => explode('_', 'igandea_astelehena_asteartea_asteazkena_osteguna_ostirala_larunbata'),
-    "weekdaysShort" => explode('_', 'ig._al._ar._az._og._ol._lr.'),
+    "weekdays"      => explode('_', 'astelehena_asteartea_asteazkena_osteguna_ostirala_larunbata_igandea'),
+    "weekdaysShort" => explode('_', 'al._ar._az._og._ol._lr._ig.'),
     "calendar"      => array(
         "sameDay"  => '[gaur]',
         "nextDay"  => '[bihar]',
